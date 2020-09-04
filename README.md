@@ -1,3 +1,3 @@
 # hello-world
-just a repository
-my name is likang
+
+my name is jack
